@@ -25,18 +25,14 @@
 <!--  -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,xd,js,ts,angular,react,nestjs,php,wordpress,mysql,git,github,docker,materialui,postman,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,xd,materialui,js,ts,angular,react,nestjs,php,wordpress,mysql,git,github,docker,postman,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
 <br><br>
 <br>
-<br><br><br>
-<br><br>
+
 <!-------------------------->
-
-
-
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
