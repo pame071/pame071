@@ -2,6 +2,14 @@
 <!--  -->
 <br>
 
+<a target="_blank" href="https://www.linkedin.com/in/pamela-guti%C3%A9rrez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:pamela.gutierrez071@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+
+<br>	
+
 ### 👨🏻‍💻 &nbsp; Sobre Mí
 
 👨‍💻 &nbsp; Soy Ingeniera Informática y desarrolladora Frontend con alrededor de 6 años de experiencia en desarrollo web.\
